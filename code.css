@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
+code {
+    background-color: #00000030;
+    border-radius: 2px;
+    padding: 4px 8px 4px 8px;
+    margin: 8px 4px 8px 4px;
+    font-family:  'Noto Sans Mono', monospace;
+    width: 500px;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif;
+}
